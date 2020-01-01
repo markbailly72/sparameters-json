@@ -1,0 +1,52 @@
+{
+  "_from": "sparameters-json@^1.0.0",
+  "_id": "sparameters-json@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-6enOP2q9xEEj0VM7/gcs83R619J6vlNQCGKrr8iTBnq5y3GpHzSfC26ubzUMFXQVDdLrHBlL4sgUMiOC5EJjzw==",
+  "_location": "/sparameters-json",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "sparameters-json@^1.0.0",
+    "name": "sparameters-json",
+    "escapedName": "sparameters-json",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sparameters-json/-/sparameters-json-1.0.0.tgz",
+  "_shasum": "7f298be7f1901662aae5bc1532cc2b86daa73039",
+  "_spec": "sparameters-json@^1.0.0",
+  "_where": "C:\\Users\\Mark\\github\\cascade-s2p",
+  "author": {
+    "name": "Mark Bailly"
+  },
+  "bugs": {
+    "url": "https://github.com/markbailly72/sparameters-json/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Convert s2p file to json file",
+  "homepage": "https://github.com/markbailly72/sparameters-json#readme",
+  "keywords": [
+    "rf",
+    "microwave",
+    "sparameters"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "sparameters-json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markbailly72/sparameters-json.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
